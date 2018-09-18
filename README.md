@@ -4,3 +4,7 @@ This project explores a new design for bagless vacuum cleaners. Most vacuum clea
 For now, the concept only explores the filtering part of the vacuum cleaner, the design is not ready to use.
 
 Any contribution is welcome, the goal being to have a 3D printable design in order to enable end users to produce their own.
+
+![Freecad source](/files/GLOBAL.fcstd)
+
+![Freecad screenshot](/files/freecad.png)
