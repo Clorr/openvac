@@ -1,3 +1,5 @@
+NOTE : The openvac project should be contributed on the Wikifactory platform: https://wikifactory.com/@clorr/openvac
+
 # openvac
 This project explores a new design for bagless vacuum cleaners. Most vacuum cleaners use a cyclonic filter which is widely patented by Dyson. The design here is based on a laminar flow which could at least consume less power due to less pressure drop.
 
